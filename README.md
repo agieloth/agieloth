@@ -72,7 +72,7 @@ Passionate about clean code, system design, and building products from scratch.
 
 ## 📌 Featured Projects
 
-### 🌐 [Social Network](https://github.com/agieloth/social-network)
+### 🌐 Social Network
 
 Full stack social network with real-time messaging, groups, notifications, and Docker containerization.
 
@@ -80,7 +80,7 @@ Full stack social network with real-time messaging, groups, notifications, and D
 
 ---
 
-### 💬 [Real-Time Forum](https://github.com/agieloth/real-time-forum)
+### 💬 Real-Time Forum
 
 Interactive forum with real-time updates, private messaging, user management, and SPA architecture.
 
@@ -88,7 +88,7 @@ Interactive forum with real-time updates, private messaging, user management, an
 
 ---
 
-### 📝 [01Blog – StudentHub](https://github.com/agieloth/01blog)
+### 📝 01Blog – StudentHub
 
 Social blogging platform featuring JWT authentication, admin/user roles, moderation panel, and subscription system.
 
@@ -96,7 +96,7 @@ Social blogging platform featuring JWT authentication, admin/user roles, moderat
 
 ---
 
-### 🐚 [0-Shell](https://github.com/agieloth/0-shell)
+### 🐚 0-Shell
 
 Minimal Unix shell built in Rust — system commands implemented from scratch without external binaries.
 
