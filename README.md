@@ -107,8 +107,8 @@ Minimal Unix shell built in Rust — system commands implemented from scratch wi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agieloth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agieloth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agieloth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agieloth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
